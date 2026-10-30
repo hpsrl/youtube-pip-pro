@@ -27,6 +27,3 @@ Initial stable-version numbering for this project. This is not a guarantee that 
 - YouTube may change its internal player DOM/classes. Previous/next and subtitle controls rely on YouTube's current player buttons and may need maintenance if YouTube changes them.
 - This package was syntax-checked, but it has not been tested in every browser or on every YouTube video.
 - No extension can be guaranteed to work unchanged for years; keep a backup of this ZIP and update/test it when the browser or YouTube changes.
-
-## Setup and Preview on Ubuntu
-![Preview](tutorial-refined-v2.mp4)
